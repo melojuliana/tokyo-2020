@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(#FF0000,#F0F8FF)
+
+}
+
+nav{
+    color: black;
+    text-align: center;    
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto  ;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color:black;
+}
+h3{
+    text-align: center;
+}
+
+p{
+    text-align:center;
+    color: black;
+
+}
+footer
+{
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+
+}
+br{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+iframe{
+    align-items: center;
+}
+table{
+    size: inherit;
+    align-items: center;
+}
+td{
+    text-align: center;
+}
